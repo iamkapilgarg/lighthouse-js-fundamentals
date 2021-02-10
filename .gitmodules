@@ -1,0 +1,3 @@
+[submodule "lighthouse-js-fundamentals"]
+	path = lighthouse-js-fundamentals
+	url = https://github.com/kapildoppiogroup/lighthouse-js-fundamentals.git
