@@ -1,3 +1,3 @@
-[submodule "lighthouse-js-fundamentals"]
-	path = lighthouse-js-fundamentals
-	url = https://github.com/kapildoppiogroup/lighthouse-js-fundamentals.git
+[submodule "lighthouse-js-fundamentals/javascripting"]
+	path = lighthouse-js-fundamentals/javascripting
+	url = https://github.com/kapildoppiogroup/lighthouse-js-fundamentals/javascripting.git
